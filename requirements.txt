@@ -1,0 +1,6 @@
+# Pinned Python 3.11 dependencies. CPU PyTorch is installed by Docker with this extra index.
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.5.1+cpu
+numpy==1.26.4
+scipy==1.13.1
+Pillow==10.4.0
